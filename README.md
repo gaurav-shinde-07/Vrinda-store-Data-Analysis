@@ -22,7 +22,8 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
 
 Dashboard
-![sales](https://github.com/user-attachments/assets/d7a65296-3069-4550-9e4e-6998c844bb59)
+![Vrinda Store Dashboard](https://github.com/user-attachments/assets/9f1cb25a-ce5f-42dc-8bc8-c8570fa8c875)
+
 
 Project Insight
 Women customers are more likely to buy products compared to men (~65%).
